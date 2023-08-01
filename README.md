@@ -1,2 +1,3 @@
 # AppLaaS
-Application Login-as-a-Service. Login integration for PaymentPaaS Web3 wallet.
+Application Login-as-a-Service. 
+Integration with PaymentPaaS Wallet.
